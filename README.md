@@ -11,3 +11,6 @@ For materials from the April 2026 CodeBMB Webinar for Beginners
 
 004-Fitting with non-linear regression --> Wally
 
+<a target="_blank" href="https://colab.research.google.com/github/codeBMB/April26_Rutgers-RCSB/blob/main/">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
