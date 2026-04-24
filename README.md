@@ -4,8 +4,23 @@ codeBMB is an NSF supported initiative to prepare faculty members to teach stude
 
 ## Before the webinar
 
-1.  Sign up for a Google account
-2.  Review the GitHub repository and topics
+1.  You need to have a Google account to participate in the crash course. If you don’t already have one, just go to [google.com/gmail](http://google.com/gmail) and set up an account. Then open your Google drive ([drive.google.com](http://drive.google.com)) and you’ll be ready to go.
+
+2.  Go to <https://github.com/> and follow the instructions to set up a GitHub account.
+
+3.  If you have not already done so, install the Zoom application on your desktop. You can download the app from <https://zoom.us/download>. It is possible to use Zoom through your browser, but that may limit access to all the resources in the crash course. 
+
+4.  Google Colab is our environment for the Crash Course. It works in most browsers, but it probably works best in Google Chrome browser, so you are encouraged to [download and install the Google Chrome browser](https://support.google.com/chrome/answer/95346?hl=en&co=GENIE.Platform%3DDesktop).
+
+5.  There are four Google Colab notebooks for the workshops. Before the workshop, you are encouraged to follow these links for the four notebooks and click on the Open in Colab button for each to ensure that you can open the notebooks.
+
+    -   [001. Introduction to Google Colab](https://github.com/codeBMB/April26_Rutgers-RCSB/blob/main/001_Intro_to_Google_Colab.ipynb)
+
+    -   [002. Basics of Python Syntax](https://github.com/codeBMB/April26_Rutgers-RCSB/blob/main/002_pybmb_basics_of_python_syntax.ipynb)
+
+    -   [003. Pandas and Numpy](https://github.com/codeBMB/April26_Rutgers-RCSB/blob/main/003_Pandas_and_NumPy.ipynb)
+
+    -   [004. Linear Regression](https://github.com/codeBMB/April26_Rutgers-RCSB/blob/main/004_Linear_regression.ipynb)
 
 ## Topic schedule
 
